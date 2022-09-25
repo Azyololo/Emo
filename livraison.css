@@ -2,7 +2,6 @@ body{
     background-color: white;
 }
 
-
 .livraisontitre{
     align-items: center;
     justify-content: center;
@@ -13,6 +12,11 @@ body{
 
 .livraisontitre h5, h6{
     padding: 20px;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
 }
 
 h5{

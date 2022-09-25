@@ -73,10 +73,28 @@ body {
     background-color: black;
 }
 
-/* @media screeen and (max-width:400px) { 
+@media screen and (max-width:800px) { 
 
-    .h1{
-        width: 50%;
+    #emo{
+        font-size: 20px;
+        align-content: center;
+        right: 34%;
     }
-   
-}  */
+
+    .txt img{
+        max-width: 400px;
+    }
+
+    .livraisontitre video{
+        max-width: 400px;
+    }
+
+    .rgpd{
+        max-width: 400px;
+    }
+
+    .carte{
+        max-width: 400px;
+    }
+    
+} 
