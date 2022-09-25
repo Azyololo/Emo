@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+
+
+.livraisontitre{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    min-height: 100%;
+}
+
+.livraisontitre h5, h6{
+    padding: 20px;
+}
+
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+h6{
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight : normal;
+}

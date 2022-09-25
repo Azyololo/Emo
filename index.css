@@ -1,0 +1,15 @@
+body{
+background-image: url("./image/emo_hello.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+
+#emo{
+    position: absolute;
+    bottom: 4.5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    left: 37%;
+}

@@ -1,0 +1,23 @@
+.carte{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
+
+.rgpd {
+    scrollbar-width: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px 1px 0 1px solid #90dbf4;
+    color: black;
+}
+
+h2{
+    color: #90dbf4;
+}
