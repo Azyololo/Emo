@@ -16,7 +16,7 @@ body{
 
 .footer{
     position: static;
-    bottom: 0;
+    bottom: -50px;
 }
 
 h5{
